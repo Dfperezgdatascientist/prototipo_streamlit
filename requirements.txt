@@ -1,0 +1,8 @@
+# Autoservicio Diners Club — Dependencias
+streamlit>=1.35.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+# Opcional para conectar Teradata real:
+# teradatasql>=20.0.0
+# Opcional para SFTP:
+# paramiko>=3.4.0
